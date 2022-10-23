@@ -1,0 +1,10 @@
+com\example\biblioja\Controller\BibliotecarioControler.class
+com\example\biblioja\repository\LivroRepository.class
+com\example\biblioja\Controller\UsuarioControler.class
+com\example\biblioja\repository\BibliotecarioRepository.class
+com\example\biblioja\Controller\LivroControler.class
+com\example\biblioja\model\Livro.class
+com\example\biblioja\BibliojaApplication.class
+com\example\biblioja\model\Bibliotecario.class
+com\example\biblioja\repository\UsuarioRepository.class
+com\example\biblioja\model\Usuario.class
